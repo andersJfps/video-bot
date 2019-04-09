@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andersJfps/video-bot/issues"
   },
-  "homepage": "https://github.com/andersJfps/video-bot#readme"
+  "homepage": "https://github.com/andersJfps/video-bot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
